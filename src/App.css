@@ -13,8 +13,15 @@
   }
 }
 
+.Table{
+  border-collapse: collapse;
+  color: #444;
+    width: 50%;
+    border: 1px solid #f2f5f7;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color:white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
